@@ -1,3 +1,3 @@
-# -GET_DRC_CHECKS_TCL
+# get_DRC_checks_TCL
 
 Required IO pin assignments
